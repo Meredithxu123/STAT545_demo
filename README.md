@@ -7,3 +7,4 @@ my name is Meredith.
 hello world!
 
 This is my hometown
+today is a good day
