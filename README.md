@@ -10,7 +10,7 @@ This is my hometown
 today is a good day
 
 
-hi
+
 
 I made this change
 
