@@ -1,4 +1,4 @@
-# STAT545_demo
+# STAT545_demo practice
 this is a demonstration of STAT545 course
 
 I will do more exercies!
