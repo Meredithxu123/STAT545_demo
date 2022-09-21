@@ -6,7 +6,7 @@ I will do more exercies!
 my name is Meredith. 
 hello world!
 
-This is my hometown
+This is my hometown/ this is your hometown
 today is a good day
 
 
